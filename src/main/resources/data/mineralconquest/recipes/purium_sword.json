@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:blaze_rod"
+    },
+    "X": {
+      "item": "mineralconquest:purium_ingot"
+    }
+  },
+  "result": {
+    "item": "mineralconquest:purium_sword"
+  }
+}

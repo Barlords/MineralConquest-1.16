@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "mineralconquest:block/fusion_furnace_top",
+    "front": "mineralconquest:block/fusion_furnace_front",
+    "side": "mineralconquest:block/fusion_furnace_side"
+  }
+}

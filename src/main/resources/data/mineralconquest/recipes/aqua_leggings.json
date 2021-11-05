@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XPX",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "mineralconquest:titane_block"
+    },
+    "P": {
+      "item": "mineralconquest:purium_nugget"
+    }
+  },
+  "result": {
+    "item": "mineralconquest:aqua_leggings"
+  }
+}

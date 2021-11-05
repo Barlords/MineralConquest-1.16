@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "iron_ingot",
+  "ingredients": [
+    {
+      "item": "mineralconquest:barlorite_block"
+    }
+  ],
+  "result": {
+    "item": "mineralconquest:barlorite",
+    "count": 9
+  }
+}

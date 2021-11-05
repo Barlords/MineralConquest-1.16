@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "iron_ingot",
+  "ingredients": [
+    {
+      "item": "mineralconquest:titane_block"
+    }
+  ],
+  "result": {
+    "item": "mineralconquest:titane_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "mineralconquest:barlorite"
+    }
+  },
+  "result": {
+    "item": "mineralconquest:barlorite_boots"
+  }
+}

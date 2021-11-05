@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XPX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "mineralconquest:titane_block"
+    },
+    "P": {
+      "item": "mineralconquest:purium_nugget"
+    }
+  },
+  "result": {
+    "item": "mineralconquest:haste_chestplate"
+  }
+}

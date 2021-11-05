@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "iron_ingot",
+  "ingredients": [
+    {
+      "item": "mineralconquest:terrasteel_block"
+    }
+  ],
+  "result": {
+    "item": "mineralconquest:terrasteel_ingot",
+    "count": 9
+  }
+}

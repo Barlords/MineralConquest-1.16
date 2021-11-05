@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:blaze_rod"
+    },
+    "X": {
+      "item": "mineralconquest:purium_ingot"
+    }
+  },
+  "result": {
+    "type": "minecraft:item_nbt",
+    "item": "mineralconquest:purium_shovel",
+    "nbt": {
+      "Enchantments":[
+        {
+          "id": "minecraft:unbreaking",
+          "lvl": 3
+        }
+      ]
+    }
+  }
+}

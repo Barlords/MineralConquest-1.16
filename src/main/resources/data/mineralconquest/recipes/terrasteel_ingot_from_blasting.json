@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "mineralconquest:terrasteel_ore"
+  },
+  "result": "mineralconquest:terrasteel_ingot",
+  "experience": 100.0,
+  "cookingtime": 1000
+}

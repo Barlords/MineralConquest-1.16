@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X#X"
+  ],
+  "key": {
+    "X": {
+      "item": "mineralconquest:titane_block"
+    },
+    "#": {
+      "item": "minecraft:heart_of_the_sea"
+    }
+  },
+  "result": {
+    "item": "mineralconquest:aqua_helmet"
+  }
+}

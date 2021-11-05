@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GXG",
+    "GXG",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "X": {
+      "item": "mineralconquest:titane_ingot"
+    }
+  },
+  "result": {
+    "item": "mineralconquest:titane_sword"
+  }
+}

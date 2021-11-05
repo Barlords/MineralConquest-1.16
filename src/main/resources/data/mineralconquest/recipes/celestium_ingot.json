@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "D#D",
+    "#P#",
+    "D#D"
+  ],
+  "key": {
+    "#": {
+      "item": "mineralconquest:celestium_crystal"
+    },
+    "P": {
+      "item": "mineralconquest:purium_nugget"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "mineralconquest:celestium_ingot"
+  }
+}

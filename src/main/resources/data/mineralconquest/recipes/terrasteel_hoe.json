@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    " #",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "mineralconquest:terrasteel_ingot"
+    }
+  },
+  "result": {
+    "item": "mineralconquest:terrasteel_hoe"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "mineralconquest:celestium_ore"
+  },
+  "result": "mineralconquest:celestium_crystal",
+  "experience": 10.0,
+  "cookingtime": 4000
+}

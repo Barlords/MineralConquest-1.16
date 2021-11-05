@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P P",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "mineralconquest:titane_block"
+    },
+    "P": {
+      "item": "mineralconquest:purium_nugget"
+    }
+  },
+  "result": {
+    "item": "mineralconquest:speed_boots"
+  }
+}
